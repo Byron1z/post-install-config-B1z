@@ -14,7 +14,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Here we are going to Explore and set up additional configurations for osTicket Portal before we actually start creating & solving mock tickets.
 
-  Here are the Different Panels to acknowledge, 1st would be the Admin Panel, which is where the Sys Admin would work and configure settings.
+  Here are the Different Panels to Acknowledge, 1st would be the Admin Panel, which is where the Sys Admin would work and configure settings.
 </p>
 <p>
 <img src="https://i.imgur.com/7m7gC6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -44,9 +44,12 @@ And here would be the Agent Panel where normal help desk workers will be working
 </p>
 <br />
 
+<h3>Configure Roles</h3>
 <p>
-  Configure Roles (for grouping permissions), Here we are going to group permissions and giving permissions to certain people.
-Admin Panel -> Agents -> Roles, create Supreme Admin and give all permissions.
+  Configure Roles (for grouping permissions), 
+  Here we are going to group permissions and giving permissions to certain people.
+
+  Admin Panel -> Agents -> Roles, create Supreme Admin and give all permissions.
   
 ● Supreme Admin
 </p>
@@ -58,9 +61,11 @@ Admin Panel -> Agents -> Roles, create Supreme Admin and give all permissions.
 </p>
 <br />
 
+<h3>Configure Departments</h3>
 <p>
   Configure Departments (Ticket Visibility, Help Desk vs Sys Admins, vs Networking) 
-Admin Panel -> Agents -> Departments, create New Department
+
+  Admin Panel -> Agents -> Departments, create New Department
 
   ● SysAdmins
 
@@ -74,6 +79,7 @@ Admin Panel -> Agents -> Departments, create New Department
 </p>
 <br />
 
+<h3>Configure Teams</h3>
 <p>
 Configure Teams
   
@@ -86,6 +92,7 @@ Admin Panel -> Agents -> Teams (Pull a group of Agents from different Department
 </p>
 <br />
 
+<h3>Allow anyone to Create Tickets</h3>
 <p>
   Allow anyone to Create Tickets 
 
@@ -98,6 +105,8 @@ tickets)
   <img src="https://i.imgur.com/pye2jve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<h3>Configure Agents</h3>
 <p>
   Configure Agents (Workers) 
 
@@ -106,6 +115,8 @@ tickets)
 ● Byron (Dept: SysAdmins, Supreme Admin) 
 
 ● Hilda (Dept: Support)
+
+Create Byron who is a Supreme Admin
 </p>
 <p>
   <img src="https://i.imgur.com/l4DvtHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
