@@ -135,3 +135,54 @@ tickets)
   <img src="https://i.imgur.com/Y7uCuMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/22zxRMx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<h3>Configure SLA </h3>
+<p>
+  Configure SLA 
+
+  Admin Panel -> Manage -> SLA, Add New SLA Plan
+
+● Sev-A (Grace Period: 1 hour, Schedule: 24/7) 
+
+● Sev-B (Grace Period: 4 hours, Schedule: 24/7) 
+
+● Sev-C (Grace Period: 8 hours, Business Hours)
+
+(SLA stands for Service Level Agreement which is how much time to do some specific tasks whether it is Responding or Completing a Ticket)
+
+SLAs Plans provide a length of time in which the Help Desk is expected to take in order to troubleshoot or solve a specific ticket.
+Each SLA has a schedule and within that schedule there is a grace period. 
+
+In this example SEV-A has a 24/7 and a one hour grace period, which is too soon to solve, but we can always change it.
+</p>
+<p>
+  <img src="https://i.imgur.com/GYYSSEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/3mYicAc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<h3>Configure Help Topics</h3>
+<p>
+  Lastly, we Configure Help Topics (For when Users create a Ticket) 
+
+  Admin Panel -> Manage -> Help Topics, Add New Help Topics
+
+● Business Critical Outage -> Report a problem
+
+● Personal Computer Issues -> Report a problem
+
+● Equipment Request -> General Inquiry 
+
+● Password Reset ->General Inquiry 
+
+● Other
+
+Help topics are categories to help users categorize their tickets. 
+
+In the 1st example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking.
+</p>
+<p>
+  <img src="https://i.imgur.com/JDaXQYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/XdKpGOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
