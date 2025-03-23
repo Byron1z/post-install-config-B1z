@@ -21,6 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
+- Allow Anyone to Create Tickets
 - Configure Agents
 - Configure End Users
 - Configure SLA
