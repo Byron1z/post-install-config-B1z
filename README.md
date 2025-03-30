@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure End Users
 - Configure SLA
 - Configure Help Topics
-
+<br />
 <h2>Configuration Steps</h2>
 <p>
   Here we are going to Explore and set up additional configurations for osTicket Portal before we actually start creating & solving mock tickets.
