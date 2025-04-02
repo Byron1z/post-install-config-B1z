@@ -137,9 +137,9 @@ Create Byron who is a Supreme Admin
 </p>
 <br />
 
-<h3>Configure End Users </h3>
+<h3>Configure End-Users </h3>
 <p>
-  Configure End Users (Customers) 
+  Configure End-Users (Customers) 
 
   Agent Panel -> Users -> Add New User 
 
