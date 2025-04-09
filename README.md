@@ -188,7 +188,7 @@ In this example SEV-A has a 24/7 and a one hour grace period, which is too soon 
 
 ● Equipment Request -> General Inquiry 
 
-● Password Reset ->General Inquiry 
+● Password Reset -> General Inquiry 
 
 ● Other
 
