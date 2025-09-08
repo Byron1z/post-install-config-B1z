@@ -34,13 +34,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   Here are the Different Panels to acknowledge, 1st would be the Admin Panel, which is where the Sys Admin would work and configure settings.
 </p>
 <p>
-<img src="https://i.imgur.com/7m7gC6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7m7gC6O.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 And here would be the Agent Panel, where normal help desk workers will be working.
 </p>
 <p>
-  <img src="https://i.imgur.com/v6eR3qF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/v6eR3qF.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -51,13 +51,13 @@ And here would be the Agent Panel, where normal help desk workers will be workin
 
   Admin Panel -> Agents -> Roles, create Supreme Admin and give all permissions.
   
-● Supreme Admin
+  ● Supreme Admin
 </p>
 <p>
-<img src="https://i.imgur.com/x04nzJM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/I4BRe8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/VghqyYc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/POiKGpB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/x04nzJM.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/I4BRe8r.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/VghqyYc.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/POiKGpB.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -74,8 +74,8 @@ And here would be the Agent Panel, where normal help desk workers will be workin
 (leave it at “Top Level Department”)
 </p>
 <p>
-<img src="https://i.imgur.com/To8HAcG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ouhR4tX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/To8HAcG.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ouhR4tX.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Admin Panel -> Agents -> Teams (Pull a group of Agents from different Department
   ● Online Banking
 </p>
 <p>
-  <img src="https://i.imgur.com/G9EeeBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/G9EeeBT.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -101,7 +101,7 @@ Admin Panel -> Agents -> Teams (Pull a group of Agents from different Department
   ● Registration Required: Require registration and login to create tickets (UNCHECK)
 </p>
 <p>
-  <img src="https://i.imgur.com/pye2jve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/pye2jve.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -118,21 +118,21 @@ Admin Panel -> Agents -> Teams (Pull a group of Agents from different Department
 Create Byron, who is a Supreme Admin
 </p>
 <p>
-  <img src="https://i.imgur.com/l4DvtHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-   <img src="https://i.imgur.com/9cqVxov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/l4DvtHn.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9cqVxov.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Next, Create Agent Hilda, who is in Support.
 </p>
 <p>
- <img src="https://i.imgur.com/CMfM0bD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/3w3bXk8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/CMfM0bD.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/3w3bXk8.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Here are the Agents
 </p>
 <p>
-  <img src="https://i.imgur.com/gbKXZkb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gbKXZkb.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -145,8 +145,8 @@ Create Byron, who is a Supreme Admin
   ● Marianne 
 </p>
 <p>
-  <img src="https://i.imgur.com/Y7uCuMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/22zxRMx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/Y7uCuMK.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/22zxRMx.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -170,8 +170,8 @@ Each SLA has a schedule and within that schedule, there is a grace period.
 In this example, SEV-A has a 24/7 and a one-hour grace period, which is too soon to solve, but we can always change it.
 </p>
 <p>
-  <img src="https://i.imgur.com/GYYSSEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/3mYicAc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/GYYSSEG.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/3mYicAc.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -196,6 +196,6 @@ In this example, SEV-A has a 24/7 and a one-hour grace period, which is too soon
   In the 1st example below, we have made a help topic for "Business Critical Outage," which can occur if customers cannot access mobile banking.
 </p>
 <p>
-  <img src="https://i.imgur.com/JDaXQYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/XdKpGOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JDaXQYz.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/XdKpGOW.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
