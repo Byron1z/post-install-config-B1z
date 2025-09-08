@@ -29,15 +29,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 <h2>Configuration Steps</h2>
 <p>
-  Here we are going to Explore and set up additional configurations for osTicket Portal before we actually start creating & solving mock tickets.
+  Here we are going to explore and set up additional configurations for the osTicket Portal before we actually start creating & solving mock tickets.
 
-  Here are the Different Panels to Acknowledge, 1st would be the Admin Panel, which is where the Sys Admin would work and configure settings.
+  Here are the Different Panels to acknowledge, 1st would be the Admin Panel, which is where the Sys Admin would work and configure settings.
 </p>
 <p>
 <img src="https://i.imgur.com/7m7gC6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-And here would be the Agent Panel where normal help desk workers will be working.
+And here would be the Agent Panel, where normal help desk workers will be working.
 </p>
 <p>
   <img src="https://i.imgur.com/v6eR3qF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -69,7 +69,7 @@ And here would be the Agent Panel where normal help desk workers will be working
 
   ● SysAdmins
 
-(This is for Ticket Visibility such as for Help Desk, Sys Admin, or for Networking. An example would be if a Ticket is assigned to the Network Department, we can configure it so only they can see their own tickets, or implement settings to give the Sys Admin ability to see all tickets)
+(This is for Ticket Visibility, such as for Help Desk, Sys Admin, or for Networking. An example would be if a Ticket is assigned to the Network Department, we can configure it so only they can see their own tickets, or implement settings to give the Sys Admin the ability to see all tickets.)
 
 (leave it at “Top Level Department”)
 </p>
@@ -96,8 +96,7 @@ Admin Panel -> Agents -> Teams (Pull a group of Agents from different Department
 <p>
   Allow anyone to Create Tickets 
 
-  Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create 
-tickets) 
+  Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) 
 
   ● Registration Required: Require registration and login to create tickets (UNCHECK)
 </p>
@@ -112,18 +111,18 @@ tickets)
 
   Admin Panel -> Agents -> Add New Agent
 
-● Byron (Dept: SysAdmins, Supreme Admin) 
+  ● Byron (Dept: SysAdmins, Supreme Admin) 
 
-● Hilda (Dept: Support)
+  ● Hilda (Dept: Support)
 
-Create Byron who is a Supreme Admin
+Create Byron, who is a Supreme Admin
 </p>
 <p>
   <img src="https://i.imgur.com/l4DvtHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    <img src="https://i.imgur.com/9cqVxov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Next, Create Agent Hilda who is in Support.
+  Next, Create Agent Hilda, who is in Support.
 </p>
 <p>
  <img src="https://i.imgur.com/CMfM0bD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -143,7 +142,7 @@ Create Byron who is a Supreme Admin
 
   Agent Panel -> Users -> Add New User 
 
-● Marianne 
+  ● Marianne 
 </p>
 <p>
   <img src="https://i.imgur.com/Y7uCuMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -157,18 +156,18 @@ Create Byron who is a Supreme Admin
 
   Admin Panel -> Manage -> SLA, Add New SLA Plan
 
-● Sev-A (Grace Period: 1 hour, Schedule: 24/7) 
+  ● Sev-A (Grace Period: 1 hour, Schedule: 24/7) 
 
-● Sev-B (Grace Period: 4 hours, Schedule: 24/7) 
+  ● Sev-B (Grace Period: 4 hours, Schedule: 24/7) 
 
-● Sev-C (Grace Period: 8 hours, Business Hours)
+  ● Sev-C (Grace Period: 8 hours, Business Hours)
 
-(SLA stands for Service Level Agreement which is how much time to do some specific tasks whether it is Responding or Completing a Ticket)
+(SLA stands for Service Level Agreement, which is how much time to do some specific task,s whether it is Responding or Completing a Ticket)
 
-SLAs Plans provide a length of time in which the Help Desk is expected to take in order to troubleshoot or solve a specific ticket.
-Each SLA has a schedule and within that schedule there is a grace period. 
+SLA Plans provide a length of time in which the Help Desk is expected to take in order to troubleshoot or solve a specific ticket.
+Each SLA has a schedule and within that schedule, there is a grace period. 
 
-In this example SEV-A has a 24/7 and a one hour grace period, which is too soon to solve, but we can always change it.
+In this example, SEV-A has a 24/7 and a one-hour grace period, which is too soon to solve, but we can always change it.
 </p>
 <p>
   <img src="https://i.imgur.com/GYYSSEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -182,19 +181,19 @@ In this example SEV-A has a 24/7 and a one hour grace period, which is too soon 
 
   Admin Panel -> Manage -> Help Topics, Add New Help Topics
 
-● Business Critical Outage -> Report a problem
+  ● Business Critical Outage -> Report a problem
 
-● Personal Computer Issues -> Report a problem
+  ● Personal Computer Issues -> Report a problem
 
-● Equipment Request -> General Inquiry 
+  ● Equipment Request -> General Inquiry 
 
-● Password Reset -> General Inquiry 
+  ● Password Reset -> General Inquiry 
 
-● Other
+  ● Other
 
-Help topics are categories to help users categorize their tickets. 
+  Help topics are categories to help users categorize their tickets. 
 
-In the 1st example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking.
+  In the 1st example below, we have made a help topic for "Business Critical Outage," which can occur if customers cannot access mobile banking.
 </p>
 <p>
   <img src="https://i.imgur.com/JDaXQYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
