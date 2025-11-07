@@ -152,17 +152,18 @@ Create Byron, who is a Supreme Admin
 
 <h3>Configure SLA </h3>
 <p>
-  Configure SLA 
+
+  Configure **SLA** 
 
   Admin Panel -> Manage -> SLA, Add New SLA Plan
 
-  ● Sev-A (Grace Period: 1 hour, Schedule: 24/7) 
+  ● **Sev-A** (Grace Period: 1 hour, Schedule: 24/7) 
 
-  ● Sev-B (Grace Period: 4 hours, Schedule: 24/7) 
+  ● **Sev-B** (Grace Period: 4 hours, Schedule: 24/7) 
 
-  ● Sev-C (Grace Period: 8 hours, Business Hours)
+  ● **Sev-C** (Grace Period: 8 hours, Business Hours)
 
-(SLA stands for Service Level Agreement, which is how much time to do some specific task,s whether it is Responding or Completing a Ticket)
+(**SLA** stands for **Service Level Agreement**, which is how much time to do some specific task(s) whether it is Responding or Completing a Ticket)
 
 SLA Plans provide a length of time in which the Help Desk is expected to take in order to troubleshoot or solve a specific ticket.
 Each SLA has a schedule and within that schedule, there is a grace period. 
