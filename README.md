@@ -182,15 +182,15 @@ In this example, SEV-A has a 24/7 and a one-hour grace period, which is too soon
 
   Admin Panel -> Manage -> Help Topics, Add New Help Topics
 
-  ● Business Critical Outage -> Report a problem
+  ● **Business Critical Outage** -> Report a problem
 
-  ● Personal Computer Issues -> Report a problem
+  ● **Personal Computer Issues** -> Report a problem
 
-  ● Equipment Request -> General Inquiry 
+  ● **Equipment Request** -> General Inquiry 
 
-  ● Password Reset -> General Inquiry 
+  ● **Password Reset** -> General Inquiry 
 
-  ● Other
+  ● **Other**
 
   Help topics are categories to help users categorize their tickets. 
 
